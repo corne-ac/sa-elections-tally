@@ -43,6 +43,11 @@ see [docs/technical-notes.md](docs/technical-notes.md).
 
 ## Licence
 
-[WTFPL](LICENSE). Do what the fuck you want with it.
+[PolyForm Noncommercial 1.0.0](LICENSE).
+
+**TL;DR: do whatever the fuck you want with it, just don't make money off it.**
+
+That's the spirit; the [LICENSE](LICENSE) file is the bit with legal teeth. Personal projects, tinkering, schools,
+charities and the like are all fine. Selling it, or building a paid product on it, is not.
 
 That covers the code. The election results and boundary data belong to the IEC, so they're not mine to licence.
